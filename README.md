@@ -1,1 +1,2 @@
 # richard-xiang
+Actually im a college 1 studengt and i just gruaduate from high school.Im learning how to use github but i failed.About 30 min sgo , i tried to download a git but failed . At first i choose to click the link that was desinged for windows but no response .Then i tried use cmd to donwload and it went well at the beginning , but soon after it failed ,said failed for unkonw reason.oh my god ,i think it is very hard to use github.Actually ,i dont konw why i use github evven though i konw what it can do .Maybe im a little white i just dont need it.
